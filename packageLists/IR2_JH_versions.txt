@@ -17,7 +17,7 @@ config_files = 0.0.12
 jh-ccs-utils = 0.1.9
 IandT-jobs = 0.2.3
 jh-dev-tools = 0.2.0
-EO-analysis-jobs = 0.2.1
+EO-analysis-jobs = 0.2.2
 
 [dmstack]
 stack_dir = /gpfs/slac/lsst/fs3/g/software/stack/w.2019.37_gcc7
