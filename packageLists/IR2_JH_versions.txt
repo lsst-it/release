@@ -19,7 +19,7 @@ jh-dev-tools = 0.2.0
 EO-analysis-jobs = 0.2.3
 
 [dmstack]
-stack_dir = /gpfs/slac/lsst/fs3/g/software/stack/v19.0.0_gcc7
+stack_dir = /gpfs/slac/lsst/fs3/g/software/stack/v19.0.0_gcc8
 
 [datacat]
 datacatdir = /lsst/dh/software/centos7-gcc48/dev/datacat/0.4
