@@ -6,6 +6,7 @@ lcatr-modulefiles = 0.4.0
 
 [eups_packages]
 eotest = 0.1.11
+obs_lsst = 1.0.0-rc
 
 [packages]
 sequencer-files = 0.2.0
