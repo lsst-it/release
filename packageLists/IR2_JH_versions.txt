@@ -5,7 +5,7 @@ lcatr-schema = 0.7.0
 lcatr-modulefiles = 0.4.0
 
 [eups_packages]
-eotest = 0.1.11
+eotest = 0.1.12
 obs_lsst = 1.0.0-rc
 
 [packages]
